@@ -1,8 +1,5 @@
 public class PracticeProblem {
 
-	public static void main(String args[]) {
-	}
-	
     public static int find(int[] array, int number) {
         for (int i = 0; i < array.length; i++) {
         if (array[i] == number) {
